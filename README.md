@@ -11,7 +11,7 @@ The raw data has 8,248 listings with missing prices, impossible mileage values a
 Python (pandas, matplotlib, openpyxl), Jupyter Notebook
 
 ## Data
-Used cars listings dataset from Kaggle: [add the dataset link here].
+Used cars listings dataset from Kaggle: [https://www.kaggle.com/datasets/turkibintalib/saudi-arabia-used-cars-dataset].
 The `Link` column in the file points to syarah.com. The data file is not included in this repository; download it and place it next to `generate_report.py` as `UsedCarsSA_Unclean_EN.csv`. The collection date and the currency of the prices are not stated in the dataset.
 
 ## How to run
